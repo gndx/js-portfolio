@@ -1,5 +1,5 @@
 {
-  "name": "js-portfolio",
+  "name": "curso-webpack",
   "version": "1.0.0",
   "description": "A minimal portfolio with Vanilla JavaScript",
   "main": "index.js",
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "git+https://github.com/MarcosEC78/curso-webpack.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "oscar barajas <oscar@MarcosEC78.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
+    "url": "https://github.com/MarcosEC78/curso-webpack/issues"
   },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+  "homepage": "https://github.com/MarcosEC78/curso-webpack#readme",
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/plugin-transform-runtime": "^7.19.6",
